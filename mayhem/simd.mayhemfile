@@ -1,0 +1,7 @@
+project: simdutf8
+target: simd
+
+image: ghcr.io/nottirb/simdutf8:latest
+
+cmds:
+    - cmd: /simd
